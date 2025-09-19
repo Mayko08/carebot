@@ -1,0 +1,28 @@
+{
+    "greetings": [
+        "Hi!",
+        "Hello!",
+        "Hey there! How are you?",
+        "Good to see you! How's your health today?",
+        "Hi, how are you feeling?"
+    ],
+
+    "name_responses": [
+        "I am your Health Assistant Bot 🤖. You can call me CareBot.",
+        "My name is CareBot. Nice to meet you.",
+        "I am CareBot, your friendly health chatbot."
+    ],
+
+    "responses": [
+        "Hi!",
+        "Hello!",
+        "How can I assist you today?"
+    ],
+
+    "wellbeing_responses": [
+        "I'm fine, thanks",
+        "I'm ok.",
+        "I'm great. Thank you.",
+        "I'm good. How can I help you?"
+    ]
+}
