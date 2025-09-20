@@ -42,12 +42,7 @@ def exit_sys(user_input):
         print("Bye! I hope you'll live in good life and health.😄")
         sys.exit()
 
-def split_words(user_input):
-    """
-    Spliting the words from the text to find the keywords.
-    """
-    text = user_input.split()
-    return text
+
 
     
             
